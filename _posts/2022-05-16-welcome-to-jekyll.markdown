@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: Karan V
+title:  "Hello there reader, this is my first webpage hosted on github"
 date:   2022-05-16 14:06:41 +0530
 categories: jekyll update
 ---
