@@ -21,10 +21,10 @@ repository               : "karanv99/karanv99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mail_photo.jpg"
+  avatar           : "profile_pic.jpg"
   name             : "Karan Venkatesh"
   pronouns         : # example: "she/her"  
-  bio              : "Just a human being"
+  bio              : "PhD Student, Department of Chemistry, TU-Darmstadt"
   location         : "Darmstadt, Germany"
   employer         : "TU-Darmstadt"
   uri              : https://www.cpc.tu-darmstadt.de/cpc/homepage_cpc/index.en.jsp
